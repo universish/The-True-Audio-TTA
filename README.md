@@ -1,7 +1,31 @@
 # The-True-Audio-TTA
-The True Audio (TTA) file format and codecs by Tau Software. Mirrored.
+The True Audio (TTA) file format and codecs by Tau Software. 
+
+URI for downloading source files:
+https://sourceforge.net/projects/tta/files/
+
+Lossless compressor for multichannel 8,16 and 24 bits audio data, with the ability of password data protection. Being 'lossless' means that no data/quality is lost in the compression - when uncompressed, the data will be identical to the original.
+Features
+
+    Down to 30-60% lossless audio data compression
+    Fast decoding and encoding
+    Password data protection
+    Multiplatform
+    Open source code and documentation
+
+Licenses:
+GNU General Public License version 3.0 (GPLv3), GNU Library or Lesser General Public License version 3.0 (LGPLv3)
+
+References are at this URI. Discussion and bug reports are also at this URI'.
+It is a redirect for those who cannot find it in a web search.
+
+For feature requests, support requests and bugs:
+https://sourceforge.net/p/tta/_list/tickets
+
 
 URI source: https://tausoft.org/en/true-audio-%d0%ba%d0%be%d0%b4%d0%b5%d0%ba-tta/
+
+
 
 The True Audio (TTA) codec is a free, simple, realtime lossless audio compressor. The term «lossless» refers to the fact that such compression results in literally no data or quality loss. Based on adaptive prognostic filters, TTA has compared favorably to a majority of its popular open-source peers. The codec was built to offer adequate compression levels while maintaining high operation speeds.
 
